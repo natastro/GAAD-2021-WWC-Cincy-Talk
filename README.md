@@ -10,3 +10,10 @@ Slides and readME with links covering my talk for Global Accessibility Awareness
 - [Empathy Prompts](https://empathyprompts.net/)
 - [WAI-ARIA Authoring Practices 1.1 | W3C](https://www.w3.org/TR/wai-aria-practices-1.1/)
 - [Index of ARIA Design Pattern Examples](https://www.w3.org/TR/wai-aria-practices/examples/)
+
+# Contact Natalie
+
+- [Website](https://natalieastroud.com/)
+- [LinkedIn](https://www.linkedin.com/in/natalie-a-stroud/)
+- [GitHub](https://github.com/natastro)
+- [Email](mailto:n.stroud@outlook.com)
